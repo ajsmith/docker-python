@@ -1,4 +1,4 @@
-FROM --platform=$BUILDPLATFORM fedora:38
+FROM --platform=$BUILDPLATFORM fedora:41
 LABEL org.opencontainers.image.description="Fedora with Python 3"
 LABEL org.opencontainers.image.authors="Alexander Smith <asmitl@gmu.edu>"
 
